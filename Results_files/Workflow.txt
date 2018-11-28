@@ -4,8 +4,9 @@
 ## Next, used tophits.sh script to take the top hit from each Transcript(#).hits file and appended it to Hits.txt in Results_file. Hits.txt contains the top hit for each of the 
 ##	six transcripts. 
 ## From Hits.txt, take the top nucleotide hit for each transcript and do blastx on NCBI BLAST (This is a nucleotide to protein blast; we have nucleotide hits, but we can get
-##	protein hits using the nucleotide to protein blast). Then take 10 of the top proteins from each unique transcript blast and put into a file in Results_files labelled with
-## 	the transcript name and somehow indicate that this is the protein hits
+##	the protein matching the top nucleotide hit using blastx). Search the corresponding protein in the NCBI protein database and take 10  proteins from each unique transcript
+##	from mus musculus and closely related organisms. *all transcripts except for six were searched in rodents; 6 was searched in the larger class of mammals
+##	 Put the protein lists into a file in Results_files labelled with the protein name followed by trans# 
 ## scp the protein hit files to remote machine in order to use muscle function. On remote machine, create alignment files for each transcript using muscle. 
 ## Still in the remote machine, use hmmerbuild to build a hidden markov model for each transcript's protein hit alignments. Save a Hidden Markov Model profile for each of the 
 ##	transcripts' protein hits
