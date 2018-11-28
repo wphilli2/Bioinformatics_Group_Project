@@ -1,16 +1,16 @@
-## First did BLAST, uploaded uniquetranscripts.fasta (in Project_files),
-## Next, from BLAST list, downloaded top hits for each of the transcripts and saved as Transcript(#).hits in Results_files. *Note that the transcript hits are saved as 
-##	Transcript(1-6).hits, but in the original uniquetranscripts.fasta file, the numbers are NOT 1-6. May need to fix this
-## Next, used tophits.sh script to take the top hit from each Transcript(#).hits file and appended it to Hits.txt in Results_file. Hits.txt contains the top hit for each of the 
-##	six transcripts. 
-## From Hits.txt, take the top nucleotide hit for each transcript and do blastx on NCBI BLAST (This is a nucleotide to protein blast; we have nucleotide hits, but we can get
-##	the protein matching the top nucleotide hit using blastx). Search the corresponding protein in the NCBI protein database and take 10  proteins from each unique transcript
-##	from mus musculus and closely related organisms. *all transcripts except for six were searched in rodents; 6 was searched in the larger class of mammals
-##	 Put the protein lists into a file in Results_files labelled with the protein name followed by trans# 
-## scp the protein hit files to remote machine in order to use muscle function. On remote machine, create alignment files for each transcript using muscle. 
-## Still in the remote machine, use hmmerbuild to build a hidden markov model for each transcript's protein hit alignments. Save a Hidden Markov Model profile for each of the 
-##	transcripts' protein hits
-## Again in the remote machine, use the newly created Hidden Markov Model profiles for each transcript and hmmsearch to search the 2 control and teh 2 obesity files provided
-##	in Project_files. Will have to scp these files to the remote machine. Then create unique files for each transcript HMM and the number of hits found in the hmmsearch.
-## scp the hit data found from the hmmsearch to local machine and use R and ggplot to graphically compare the hits between the transcripts
-##
+First did BLAST, uploaded uniquetranscripts.fasta (in Project_files),
+Next, from BLAST list, downloaded top hits for each of the transcripts and saved as Transcript(#).hits in Results_files. *Note that the transcript hits are saved as 
+Transcript(1-6).hits, but in the original uniquetranscripts.fasta file, the numbers are NOT 1-6. May need to fix this
+Next, used tophits.sh script to take the top hit from each Transcript(#).hits file and appended it to Hits.txt in Results_file. Hits.txt contains the top hit for each of the 
+	six transcripts. 
+From Hits.txt, take the top nucleotide hit for each transcript and do blastx on NCBI BLAST (This is a nucleotide to protein blast; we have nucleotide hits, but we can get
+	the protein matching the top nucleotide hit using blastx). Search the corresponding protein in the NCBI protein database and take 10  proteins from each unique transcript
+	from mus musculus and closely related organisms. *all transcripts except for six were searched in rodents; 6 was searched in the larger class of mammals
+	 Put the protein lists into a file in Results_files labelled with the protein name followed by trans# 
+scp the protein hit files to remote machine in order to use muscle function. On remote machine, create alignment files for each transcript using muscle. 
+Still in the remote machine, use hmmerbuild to build a hidden markov model for each transcript's protein hit alignments. Save a Hidden Markov Model profile for each of the 
+	transcripts' protein hits
+Again in the remote machine, use the newly created Hidden Markov Model profiles for each transcript and hmmsearch to search the 2 control and teh 2 obesity files provided
+	in Project_files. Will have to scp these files to the remote machine. Then create unique files for each transcript HMM and the number of hits found in the hmmsearch.
+scp the hit data found from the hmmsearch to local machine and use R and ggplot to graphically compare the hits between the transcripts
+
