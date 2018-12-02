@@ -1,3 +1,4 @@
+## Usage: bash Ptpn5_primate_loop.sh 
 for file in $@
 do
 filename=$(echo $file)
