@@ -24,7 +24,7 @@ Ptpn5_primate
 	This directory contains files relevant to short answer question 2.
 	It contains a  new list of proteins for Ptpn5 derived from an NCBI
 	search of Ptpn5 for primates. It also contains the alignment of these proteins
-	(aligned using muscle and a script similar to that in Protein_alignments) and 
+	and the script used to generate the alignment. It contains 
 	the HMM profile (generated from this alignment using hmmbuild and a script). 
 	The directory contains a script that was used to search Obese1protein.fasta
 	against the HMM profile in the directory. Finally, it contains the results of
