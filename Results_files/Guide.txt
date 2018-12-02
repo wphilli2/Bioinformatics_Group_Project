@@ -1,0 +1,38 @@
+This directory has all of the results from this project. There are multiple directories
+containing the results:
+
+Transcripts: 
+	This directory contains the files containing the hits from the BLAST search on NCBI
+	of the uniquetranscrips.fasta file (in the Project_files directory). It also 
+	has a file containing the top hit for each transcript.
+Protein_hits:
+	This directory contains the files containing the selected proteins from a blastx
+	search on NCBI of the top hit from each transcript. 
+Protein_alignments:
+	This directory contains the alignments of the protein lists from Protein_hits.
+	The alignments were obtained using muscle. The script containing the code for
+	carrying out the alignments is also in this directory.
+Protein_hmms
+	This directory contains the HMM profiles generated from the alignments in 
+	Protein_alignments using hmmerbuild. The script that was used is also in the
+	directory.
+hmmsearch
+	This directory contains a text file with the results of the hmmsearch of 
+	the 4 RNA seq files (Control and Obese proteins in Project_files) against the
+	profiles in Protein_hmms. The script that was used is also in the directory.
+Ptpn5_primate
+	This directory contains files relevant to short answer question 2.
+	It contains a  new list of proteins for Ptpn5 derived from an NCBI
+	search of Ptpn5 for primates. It also contains the alignment of these proteins
+	(aligned using muscle and a script similar to that in Protein_alignments) and 
+	the HMM profile (generated from this alignment using hmmbuild and a script). 
+	The directory contains a script that was used to search Obese1protein.fasta
+	against the HMM profile in the directory. Finally, it contains the results of
+	this search.
+blasn_megablast
+	This directory contains files relevant to short answer question 1
+scripts
+	This directory contains copies of all the scripts used in the project
+
+  
+
