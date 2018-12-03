@@ -20,15 +20,15 @@ hmmsearch
 	This directory contains a text file with the results of the hmmsearch of 
 	the 4 RNA seq files (Control and Obese proteins in Project_files) against the
 	profiles in Protein_hmms. The script that was used is also in the directory.
-Ptpn5_primate
+ShortAns2:
 	This directory contains files relevant to short answer question 2.
-	It contains a  new list of proteins for Ptpn5 derived from an NCBI
-	search of Ptpn5 for primates. It also contains the alignment of these proteins
-	and the script used to generate the alignment. It contains 
-	the HMM profile (generated from this alignment using hmmbuild and a script). 
-	The directory contains a script that was used to search Obese1protein.fasta
-	against the HMM profile in the directory. Finally, it contains the results of
-	this search.
+	It contains a Ptpn5_primate directory and aGlutathione_S_transferase_A2_primate
+	directory. Each of these directories contains the fasta files with the ten proteins
+	obtained using a blast to find hits for the protein within the order of primate for
+	the given protein. It also contains the alignment files for these proteins and an 
+	HMM built from the alignment. Finally, they contain the files showing the hits obtained
+	from a search of the profiles against Obes1protein.fasta. This directory also contains the 
+	scripts used to create the files above. 
 blasn_megablast
 	This directory contains files relevant to short answer question 1
 scripts
