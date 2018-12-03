@@ -17,9 +17,9 @@ Protein_hmms
 	Protein_alignments using hmmerbuild. The script that was used is also in the
 	directory.
 hmmsearch
-	This directory contains a text file with the results of the hmmsearch of 
-	the 4 RNA seq files (Control and Obese proteins in Project_files) against the
-	profiles in Protein_hmms. The script that was used is also in the directory.
+	This directory contains files for each protein HMM (from Protein_hmms) with hits
+	obtained after searching each of the RNA seq files against that HMM.
+	The script that was used is also in the directory.
 ShortAns2:
 	This directory contains files relevant to short answer question 2.
 	It contains a Ptpn5_primate directory and aGlutathione_S_transferase_A2_primate
