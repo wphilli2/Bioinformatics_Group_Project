@@ -1,0 +1,15 @@
+#                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          Glutathione_S_transferase_A2_primate.fasta -           2.4e-127  417.8   0.4  2.7e-127  417.6   0.4   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Glutathione_S_transferase_A2_primate.fasta -           2.4e-127  417.8   0.4  2.7e-127  417.6   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      Glutathione_S_transferase_A2_primate.hmm
+# Target file:     Obese1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout Obese1protein.fasta_Glutathione_S_transferase_A2_primate.hmm.hits Glutathione_S_transferase_A2_primate.hmm Obese1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin
+# Date:            Mon Dec  3 10:34:09 2018
+# [ok]

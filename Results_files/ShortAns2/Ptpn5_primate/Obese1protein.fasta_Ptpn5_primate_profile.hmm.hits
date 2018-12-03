@@ -1,0 +1,33 @@
+#                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          Ptpn5_trans6_primate.fasta -                  0 1109.3   4.3         0 1109.1   4.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      Ptpn5_primate_profile.hmm
+# Target file:     Obese1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout Obese1protein.fasta_Ptpn5_primate_profile.hmm.hits Ptpn5_primate_profile.hmm Obese1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin
+# Date:            Mon Dec  3 10:33:20 2018
+# [ok]
