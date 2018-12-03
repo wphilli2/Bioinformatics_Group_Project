@@ -29,7 +29,7 @@ ShortAns2:
 	HMM built from the alignment. Finally, they contain the files showing the hits obtained
 	from a search of the profiles against Obes1protein.fasta. This directory also contains the 
 	scripts used to create the files above. 
-blasn_megablast
+ShortAns1:
 	This directory contains files relevant to short answer question 1
 scripts
 	This directory contains copies of all the scripts used in the project
