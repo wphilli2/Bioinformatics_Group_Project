@@ -1,0 +1,29 @@
+#                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                       accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------             -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+Obese1               -          solute_carrier_fam7_mem12_trans2 -           3.8e-233  769.3  30.0  4.2e-233  769.1  30.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      solute_carrier_fam7_mem12_trans2.hmm
+# Target file:     Obese1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout solute_carrier_fam7_mem12_trans2.hmm.Obese1protein.fasta.hits solute_carrier_fam7_mem12_trans2.hmm Obese1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin/Projectstuff
+# Date:            Mon Dec  3 11:58:04 2018
+# [ok]

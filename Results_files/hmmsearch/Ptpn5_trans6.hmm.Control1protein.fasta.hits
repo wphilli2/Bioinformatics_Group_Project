@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+Control1             -          Ptpn5_trans6         -                  0 1292.5   2.4         0 1292.3   2.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      Ptpn5_trans6.hmm
+# Target file:     Control1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout Ptpn5_trans6.hmm.Control1protein.fasta.hits Ptpn5_trans6.hmm Control1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin/Projectstuff
+# Date:            Mon Dec  3 11:58:02 2018
+# [ok]

@@ -1,0 +1,64 @@
+#                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------      -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+Obese1               -          LIM_hbox_lhx2_isoa_trans9 -           1.5e-269  887.5   8.5  1.7e-269  887.3   8.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      LIM_hbox_lhx2_isoa_trans9.hmm
+# Target file:     Obese1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout LIM_hbox_lhx2_isoa_trans9.hmm.Obese1protein.fasta.hits LIM_hbox_lhx2_isoa_trans9.hmm Obese1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin/Projectstuff
+# Date:            Mon Dec  3 11:57:56 2018
+# [ok]
