@@ -1,0 +1,11 @@
+The two proteins I chose to build new HMM profiles for are Ptpn5 and Glutathione S transferase. I searched the proteins on NCBI and then
+selected "primates" from the tree. I picked ten proteins for each from the list of primate proteins and carried out the procedure of 
+aligning the sequences, building the HMM, and then searching the RNA seq file Obese1protein.fasta against the profiles. 
+Looking at the hits obtained from the searches of Obese1 against the Ptpn5 profiles, the hits in both cases have E-values of 0. However,
+The bit scores from the primate profile are 1109.3 while the bit scores from the rodent profile are 1292.5. The higher bit score in the 
+rodent profile case suggests that building the HMM from more closely related species provides  better quality hits. 
+Looking at the hits obtained from the searches of Obese1 against the Glutathione S transferase profile, the hits differ in both E-value
+and bit score. The E-value from the rodent profile is 1.4e-140, while the E-value from the primate profile is 2.4e-127. The lower E-value
+in the rodent profile suggests that the hits are of higher quality, because there is a lower probability of finding the given sequence 
+randomly. Similarly, the bit score in the rodent profile is 461.2, while the bit score is 417.8 in the primate profile. Again, this 
+suggests that the hits are of higher quality when the rodent profile is used. 
