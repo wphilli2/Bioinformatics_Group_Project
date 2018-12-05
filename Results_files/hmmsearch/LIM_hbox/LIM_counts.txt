@@ -1,0 +1,4 @@
+LIM_hbox_lhx2_isoa_trans9.hmm.Control1protein.fasta.hits	15
+LIM_hbox_lhx2_isoa_trans9.hmm.Control2protein.fasta.hits	20
+LIM_hbox_lhx2_isoa_trans9.hmm.Obese1protein.fasta.hits	51
+LIM_hbox_lhx2_isoa_trans9.hmm.Obese2protein.fasta.hits	58

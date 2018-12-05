@@ -1,0 +1,7 @@
+#Use muscle and hmmer to "replicate a recent study"
+#RNAseq involves high-throughput sequencing of cDNA libraries
+#Expression levels of each transcript in each tissue sample are then quantified/converted to counts using statistical models
+#Goal: Approximate an established pipeline by building protein models of 6 target transripts, searching simulated transcriptome data for "hits" and counting those hits as a proxy for gene expression
+
+#There are 5 fasta files to be used
+#Use BLAST to identify the genes encoded by the 6 differentially expressed transcripts listed in uniquetranscripts.fasta

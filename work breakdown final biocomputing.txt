@@ -1,0 +1,17 @@
+#Download fasta files
+#Decompress files
+#Send to remote
+#Use Blast to Identify genes in transcripts (uniquetranscripts.fasta)
+#Save the descriptions and save these to repo
+#Make a single table that includes the top hit for each transcript (coding)
+#Look for the amino acid sequences corresponding to the transcripts
+#Choose 10 protein sequences from mice/related organisms & Download them
+#Do a HMM (hmmbuild) for each transcript proteins and search the4 translated "RNAseqfiles"
+#Use a bashscript to loop over the 6 transcript files and 4 "RNAseq files"
+#Graph the expression levels of each protein in each of the "RNAseqfiles". These must be compared qualitatively to the paper
+#
+
+Ya empez'o a hacer blast
+##enviarle mi github a will
+
+Hacer asignaci'on de 
