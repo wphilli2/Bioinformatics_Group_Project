@@ -1,0 +1,18 @@
+Glutathione_S_transferase/
+       2
+       1
+LIM_hbox/
+      51
+      58
+Potassium_trans/
+      38
+      38
+Ptpn5/
+      20
+      18
+synaptoporin/
+     100
+      93
+solute_carrier/
+      16
+      15
