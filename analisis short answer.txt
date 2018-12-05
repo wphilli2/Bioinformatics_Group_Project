@@ -1,0 +1,20 @@
+species, number of hits, general
+
+Mega:
+- Avg: 815.21
+-T10Avg: 1479.2
+-14-Mus Musculus;10-Rattus norvegicus; 2-Mouse;4-Mus Caroli; 14-Microtus ochrogaster; 4-Cricetulus griseus; 5-Peromyscus maniculatus; 3 Meriones unguiculatus; 1-Mus pahari
+-All mice until 12th hit, then it's Rattus novergicus
+
+DM
+- Avg: 871.65
+-T10A: 1452.9
+14-Musculus; 1-Mouse; 10-Rattus norvegicus; 1-Mus pahari; 14-Microtus og...; 6-Cricetulus; 3-Meriones un...; 5-Peromyscus maniculatus
+-All mice until 12th hit, then it's Rattus novergicus
+
+
+blastn
+- Avg: 871.65
+-T10A: 1452.9
+-14-Mus Musculus; 10-Rattus norvegicus; 2-Mouse; 4-Mus Caroli; 14-Microtus ochrogaster; 4-Cricetulus griseus; 5-Peromyscus maniculatus; 3 Meriones unguiculatus; 1-Mus pahari
+-All mice until 12th hit, then it's Rattus novergicus

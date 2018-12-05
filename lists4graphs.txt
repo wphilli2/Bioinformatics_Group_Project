@@ -1,0 +1,27 @@
+#This shell script is designed to count the number of hits and create a list with names. The name of the file (without format) must be written next to
+#'bash *.sh [nameofnewfile]
+#This had to be done for each folder of each protein
+#*.sh
+for i in *.hits; do
+grep -c '461.2' $i;
+done > counts
+
+ls *.hits > names
+
+paste names counts > $1.txt
+
+#resulting names (hmmsearch/[proteinnamefolder]
+GST_counts.txt
+PTATP_counts.txt
+solute_counts.txt
+LIM_counts.txt
+Ptpn5_counts.txt
+synap_counts.txt
+
+
+#Put all files into the same document
+cat */*.txt > allproteinhits.txt
+
+#divided counts between control and obese
+grep 'Obese' allproteinhits.txt > Obesehits.txt
+grep 'Control' allproteinhits.txt > Controlhits.txt

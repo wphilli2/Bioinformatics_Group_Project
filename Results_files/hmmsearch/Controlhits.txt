@@ -1,0 +1,12 @@
+Glutathione_S_transferase_A2_trans1.hmm.Control1protein.fasta.hits	12
+Glutathione_S_transferase_A2_trans1.hmm.Control2protein.fasta.hits	20
+LIM_hbox_lhx2_isoa_trans9.hmm.Control1protein.fasta.hits	15
+LIM_hbox_lhx2_isoa_trans9.hmm.Control2protein.fasta.hits	20
+Potassium_trans_ATPase_achain2_trans8.hmm.Control1protein.fasta.hits	18
+Potassium_trans_ATPase_achain2_trans8.hmm.Control2protein.fasta.hits	20
+Ptpn5_trans6.hmm.Control1protein.fasta.hits	12
+Ptpn5_trans6.hmm.Control2protein.fasta.hits	20
+solute_carrier_fam7_mem12_trans2.hmm.Control1protein.fasta.hits	12
+solute_carrier_fam7_mem12_trans2.hmm.Control2protein.fasta.hits	20
+synaptoporin_iso1_trans10.hmm.Control1protein.fasta.hits	15
+synaptoporin_iso1_trans10.hmm.Control2protein.fasta.hits	20

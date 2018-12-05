@@ -1,0 +1,27 @@
+#Copy uniquetranscripts.fasta
+cp uniquetranscripts.fasta 2transcripts.fasta
+
+#Select for the first 2 transcripts from uniquetranscripts.fasta
+head -n 4 uniquetranscripts.fasta > 2transcripts.fasta
+
+#Ran blast and downloaded results
+
+#Chose top 10 hits for each optimization
+cat *Trans*hits.csv | head > top*T*hits.csv
+
+#cut last column to average
+cat topmegaT1hits.csv | cut -d"," -f11 > avmegat1.csv
+
+cat avmegat1.csv | grep -v "104"
+
+
+
+
+###
+for i in $(ls Bioinformatics_Group_Project/Results_files/*.hmm); do
+for m in $(ls ~/Bioinformatics_Group_Project/*.fasta); do
+/afs/nd.edu/user29/jwharto1/local/bin/hmmsearch --tblout $i $m;
+done;
+done
+
+scp -r jwharto1@remote108.helios.nd.edu:/afs/nd.edu/user29/jwharto1/Bioinformatics_Group_Project /mnt/c/Users/elkid/Desktop/Biocomputing
