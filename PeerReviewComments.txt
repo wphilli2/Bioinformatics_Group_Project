@@ -1,4 +1,0 @@
-#Add title to graph
-#Add a README file (something to provide information on where everything is, where specific results and scripts can be found)
-#Organize repo into files
-#Add usage for scripts (some have it, not all)

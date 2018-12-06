@@ -1,0 +1,6 @@
+#Add title to graph
+
+#Add a README file (something to provide where everythin is)
+#Organize into files
+
+#Add usage for scripts (some have it, not all)
