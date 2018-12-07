@@ -1,5 +1,5 @@
 for i in *.hits; do
-grep -c '656.5' $i;
+grep -c '657.8' $i;
 done > counts
 
 ls *.hits > names
