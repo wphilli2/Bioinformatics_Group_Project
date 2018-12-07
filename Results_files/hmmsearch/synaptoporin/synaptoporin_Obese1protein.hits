@@ -1,0 +1,113 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+Obese1               -          synaptoprin_iso1_trans10.fasta -             3e-200  658.0   5.3  3.4e-200  657.8   5.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      synaptoprin_iso1_trans10.hmm
+# Target file:     Obese1protein.fasta
+# Option settings: /afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout synaptoporin_Obese1protein.hits synaptoprin_iso1_trans10.hmm Obese1protein.fasta 
+# Current dir:     /afs/nd.edu/user24/wphilli2/local/bin
+# Date:            Thu Dec  6 11:32:07 2018
+# [ok]
