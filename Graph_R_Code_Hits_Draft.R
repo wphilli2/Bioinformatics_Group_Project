@@ -1,0 +1,16 @@
+library(ggplot2)
+x<-Obesehits [,1]
+x
+y<-Obesehits[,2]
+y
+
+plot<-ggplot(data=Obesehits, aes(x=(Obesehits[,1]),y=(Obesehits[,2])))
+plot+geom_bar()
+
+obeseplot<-ggplot(data=Obesehits,aes(x=Obesehits[,1],y=Obesehits[,2]))
+obeseplot+geom_point()
+
+plot<-ggplot(data = Obesehits, aes(x, y), color = "red")
+plot+geom_bar(stat='identity')+ coord_cartesian() +
+  scale_color_gradient() +
+  theme_bw()

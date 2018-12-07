@@ -1,0 +1,65 @@
+Megablast
+>seq 1
+All hit species that resulted of the search where in the Rotentia order
+Amongst the species present, the genus Mus sp. was the most abundant, with the majority being Mus musculus. THis was followed by Rattus novergicus,
+who's protein appearead as the 12th most similar hit.
+Average Max Score:815.21
+Top 10 Avg Max Score: 1479.2
+Average Ident:87.81%
+Top 1- Ident:98.71
+There were 100 hits
+
+>seq 2
+All hit species that resulted of the search where in the Rodentia order.
+Amongst the species present, the genus Mus sp. was the most abundant, with the majority being M. musculus. However, in this ocassion, there was
+higher diversity of species present, not only amongst the Mus sp. genus, but other species.
+This sequence appears to have been preserved more through the phylogenetic tree, since more species agross different
+genuses have a version of it.
+There were 35 hits
+Average Max Score: 1093.58
+Top 10 Avg Max Score: 2486.3
+Average Ident:91.10%
+Top 10 Ident: 96.55%
+
+DM
+>seq 1
+The top hits were all species of the Rodentia order. However, for this blast, species across
+other genuses from the Rodentia order not seen in the megablast (ie: Giant Mole and the Lesser Egyptian jerboa), and species from 
+other taxonomic orders like primates (inc
+luding baboons and humans), horses and wild boars.
+Average Max Score: 871.65
+Top 10 Avg max Score: 1542.9
+Average Ident: 87.13
+Top 10 Ident: 98.85
+100 hits
+
+>seq 2
+The top hits were all species of the Rodentia order. However, for this blast, species across
+other genuses from the Rodentia order not seen in the megablast (ie: Chinchillas), and species from 
+other taxonomic orders like whales, otters, felines, bovines, etc.
+Avg Max Score: 725.3155405
+Top 10 Avg Max Score: 2501.7
+Avg Identity: 79.14589189
+Top 10 Avg Ident: 94.5521
+100 hits
+
+blastn
+>seq 1
+Top hits were in Rodentia order. Similar species in inside the order to those found from DM , with the adition of the naked mole rat
+Similar species outside of the Rodentia order, although with additions like Treeshrews and bats.
+Average Max Score: 871.6534653
+Top 10 Avg Max Score: 1452.9
+Avg Ident: 87.13994059
+Top 10 Avg Ident: 98.7159
+
+100 hits
+
+>seq 2 
+Top hits were in Rodentia order, with similar species within the order.
+Outside of Rodentia, there are similar species to DM, although with additions like dolphins and foxes.
+Avg MAx Score: 692.874359
+Top 10 Avg Max Score: 2501.7
+Top 10 Avg Ident: 78.7394359
+Top 10 Avg Ident: 94.5521
+156 hits
+
