@@ -1,24 +1,24 @@
-Glutathione/.C1 12
-Glutathione/.C2 20
-Glutathione/.O1 2
-Glutathione/.O2 1
-LIM/.C1 15
-LIM/.C2 20
-LIM/.O1 51
-LIM/.O2 58
-Potassium_t/.C1 18
-Potassium_t/.C2 20
-Potassium_t/.O1 38
-Potassium_t/.O2 38
-Ptpn5/.C1 12
-Ptpn5/.C2 20
-Ptpn5/.O1 20
-Ptpn5/.O2 18
-solute/.C1 12
-solute/.C2 20
-solute/.O1 16
-solute/.O2 15
-synaptoporin/.C1 15
-synaptoporin/.C2 20
-synaptoporin/.O1 100
-synaptoporin/.O2 93
+Glutathione/ Control1 12
+Glutathione/ Control2 20
+Glutathione/ Obese1 2
+Glutathione/ Obese2 1
+LIM/ Control1 15
+LIM/ Control2 20
+LIM/ Obese1 51
+LIM/ Obese2 58
+Potassium_t/ Control1 18
+Potassium_t/ Control2 20
+Potassium_t/ Obese1 38
+Potassium_t/ Obese2 38
+Ptpn5/ Control1 12
+Ptpn5/ Control2 20
+Ptpn5/ Obese1 20
+Ptpn5/ Obese2 18
+Solute/ Control1 12
+Solute/ Control2 20
+Solute/ Obese1 16
+Solute/ Obese2 15
+Synaptoporin/ Control1 15
+Synaptoporin/ Control2 20
+Synaptoporin/ Obese1 100
+Synaptoporin/ Obese2 93
