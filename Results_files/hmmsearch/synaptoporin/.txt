@@ -1,4 +1,0 @@
-synaptoporin_Control1.hits	15
-synaptoporin_Control2.hits	20
-synaptoporin_Obese1protein.hits	100
-synaptoporin_Obese2protein.hits	93
