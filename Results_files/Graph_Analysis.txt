@@ -1,0 +1,13 @@
+After examining Kuhns and Pluznick's results of the differences in gene expression in obese mice vs control, we are able
+to conclude that the differences between both sets of mice seen on our search corroborate the results found by the authors.
+As an example we can mention Synaptoporin's high difference in gene expression as per the author's results, which resemble the distance
+between the amount of protein produced by obese mice vs control on our results. To contrast we can mention Potassion ATPase, which has a
+relatively low difference of protein expression on our results, corresponding to the low difference of gene expression in the study.
+
+Just like the previous set of proteins, we can also see a resemblance in the behavior of
+Solute carrier 7 and Glutathione transferase. These resemble Kuhns and Pluznick's results in that SoluteCarrier 7 had a somewhat
+minor difference in gene expression, which correspond to the small difference between Obese and Control mice on our results,
+whereas Glutathione transferase which is shown to have a larger fold change by the authors, is shown to have a larger difference
+of protein expression on our results.
+
+These findings seem to corroborate that there is in fact a difference in gene expression between obese and non-obese mice.
