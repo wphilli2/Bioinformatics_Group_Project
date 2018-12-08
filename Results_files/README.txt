@@ -37,8 +37,9 @@ ShortAns1:
 	This directory contains files relevant to short answer question 1
 scripts
 	This directory contains copies of all the scripts used in the project
-Plot.R
-	This is the R script used to produce the plot
+Plot
+	This directory contains the R script used to generate the plot of the protein hits, the plot itself,
+	and the text file analyzing the plot.
 
   
 
