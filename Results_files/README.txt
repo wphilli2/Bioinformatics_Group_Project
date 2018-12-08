@@ -23,6 +23,11 @@ hmmsearch
 	The script that was used to search (search.sh), the script that was used to compile the 
 	number of hits from the search (hitfinder.sh), and the file containing the numbers of hits
 	(hitcounts.txt) are also in the directory.
+ShortAns1:
+	This directory contains files relevant to short question 1.
+	It has sequences 1 and 2, which were blasted to test each optimization parameter.
+	In addition there are two documents which contain basic analysis used for the final answer.
+	Finally, there is a file named README_Response1.txt which contains the response for the question.
 ShortAns2:
 	This directory contains files relevant to short answer question 2.
 	It contains a Ptpn5_primate directory and aGlutathione_S_transferase_A2_primate
