@@ -1,4 +1,0 @@
-synaptoporin_iso1_trans10.hmm.Control1protein.fasta.hits	15
-synaptoporin_iso1_trans10.hmm.Control2protein.fasta.hits	20
-synaptoporin_iso1_trans10.hmm.Obese1protein.fasta.hits	100
-synaptoporin_iso1_trans10.hmm.Obese2protein.fasta.hits	93
