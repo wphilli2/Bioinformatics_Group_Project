@@ -11,7 +11,7 @@ Protein_hits:
 Protein_alignments:
 	This directory contains the alignments of the protein lists from Protein_hits.
 	The alignments were obtained using muscle. The script containing the code for
-	carrying out the alignments is also in this directory.
+	carrying out the alignments (muscle.sh) is also in this directory.
 Protein_hmms
 	This directory contains the HMM profiles generated from the alignments in 
 	Protein_alignments using hmmerbuild. The script that was used is also in the
