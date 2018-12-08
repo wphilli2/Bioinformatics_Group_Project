@@ -1,9 +1,0 @@
-      33 Ptpn5_trans6.hmm.Control2protein.fasta.hits
-      12
-      20
-      20
-      18
-      12
-      20
-      20
-      18
