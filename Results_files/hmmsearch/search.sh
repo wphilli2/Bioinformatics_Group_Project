@@ -10,6 +10,6 @@ for i in *.hmm; do
 A=$(echo $i)
 for m in *.fasta; do
 B=$(echo $m)
-/afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout $A.$B.hits $i $m;
+<path to hmmsearch on remote machine> --tblout $A.$B.hits $i $m;
 done;
 done
