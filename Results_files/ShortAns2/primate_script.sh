@@ -6,5 +6,5 @@
 
 
 filename=$(echo $1_$2)
-/afs/nd.edu/user24/wphilli2/local/bin/hmmer/hmmsearch --tblout $filename.hits $2 $1
+<path to hmmsearch on remote machine> --tblout $filename.hits $2 $1
 done
