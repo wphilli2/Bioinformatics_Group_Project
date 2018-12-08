@@ -1,4 +1,3 @@
-setwd("/Users/willphillips/Desktop/Introduction to Biocomputing/Bioinformatics/Project/Bioinformatics_Group_Project/Results_files/hmmsearch")
 data=read.table("hitcounts.txt")
 data
 library(ggplot2)
